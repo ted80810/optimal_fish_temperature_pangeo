@@ -1,0 +1,17 @@
+name: notebook
+channels:
+  - conda-forge
+dependencies:
+  - geopandas
+  - xarray
+  - jupyterlab
+  - matplotlib
+  - rasterio
+  - hvplot
+  - holoviews
+  - pyviz
+  - bokeh
+  - datashader
+  - contextily
+  - dask-gateway
+prefix: /srv/conda/envs/notebook
