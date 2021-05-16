@@ -29,9 +29,9 @@ public dataset and scientific analysis compatible with their business.
 4) Change the button URLs below to point to your repo (pangeo-data/pangeo-binder-template --> githubuser/repo)
 5) Share links with colleagues! 
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=GCE+us-central1&color=blue)](https://binder.pangeo.io/v2/gh/pangeo-data/pangeo-binder-template/master?urlpath=lab)
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=GCE+us-central1&color=blue)](https://mybinder.org/v2/gh/ted80810/optimal_fish_temperature_pangeo/HEAD?filepath=optimal_fish_temperature_pangeo)
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://aws-uswest2-binder.pangeo.io/v2/gh/pangeo-data/pangeo-binder-template/master?urlpath=lab)
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://mybinder.org/v2/gh/ted80810/optimal_fish_temperature_pangeo/HEAD?filepath=optimal_fish_temperature_pangeo)
 
 
 #### info on customized badges:
