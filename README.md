@@ -20,6 +20,8 @@ Oceanography Center (FNMOC) global-scale operational ocean prediction system (av
 executable notebook can be a valuable asset to the local eco-tourism community providing access to a large 
 public dataset and scientific analysis compatible with their business.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ted80810/optimal_fish_temperature_pangeo/HEAD?filepath=optimal_fish_temperature_pangeo)
+
 ### How to use
 1) Click the 'Use this Template Button'
 2) Change files in binder/ folder to customize your Jupyter environment
