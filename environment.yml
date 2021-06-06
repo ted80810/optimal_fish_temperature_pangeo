@@ -2,6 +2,7 @@ name: notebook
 channels:
   - conda-forge
 dependencies:
+  - cartopy
   - geopandas
   - xarray
   - jupyterlab
@@ -9,9 +10,9 @@ dependencies:
   - rasterio
   - hvplot
   - holoviews
-  - pyviz
   - bokeh
   - datashader
   - contextily
   - dask-gateway
+  - rioxarray
 prefix: /srv/conda/envs/notebook

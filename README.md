@@ -1,4 +1,12 @@
 # About
+
+How to run Notebook:
+
+This notebook is ran on a pangeo-binder. To run click the link below:
+
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://mybinder.org/v2/gh/ted80810/optimal_fish_temperature_pangeo/HEAD)
+
+This notebook is ran on a pangeo-binder. To run click the link below:
 Water temperatures dominate bonefish (Albula spp.) movements and feeding patterns in coastal flats. 
 For this project, I will be utilizing the Pangeo ecosystem tools to visualize 
 Multi-Scale Ultra High Resolution (MUR) Sea Surface Temperature (SST) grids around the Marls, a popular 
@@ -19,7 +27,3 @@ NOAA High Resolution Rapid Refresh Model (available on AWS) and the Fleet Numeri
 Oceanography Center (FNMOC) global-scale operational ocean prediction system (available from NCEI). The final 
 executable notebook can be a valuable asset to the local eco-tourism community providing access to a large 
 public dataset and scientific analysis compatible with their business.
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ted80810/optimal_fish_temperature_pangeo/HEAD)
-
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://mybinder.org/v2/gh/ted80810/optimal_fish_temperature_pangeo/HEAD)
