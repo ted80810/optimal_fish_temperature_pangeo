@@ -2,9 +2,20 @@ name: myenv
 channels:
   - conda-forge
 dependencies:
+  - cartopy
+  - geopandas
   - pangeo-notebook==2021.02.07
   - xarray
+  - jupyerlab
   - hvplot
+  - matplotlib
+  - rasterio
+  - holoviews
+  - bokeh
+  - datashader
+  - contextily
+  - dask-gateway
+  - rioxarray
   - pip
   - pip:
     - sat-search
