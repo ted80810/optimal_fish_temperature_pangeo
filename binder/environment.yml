@@ -6,7 +6,7 @@ dependencies:
   - geopandas
   - pangeo-notebook==2021.02.07
   - xarray
-  - jupyerlab
+  - jupyterlab
   - hvplot
   - matplotlib
   - rasterio

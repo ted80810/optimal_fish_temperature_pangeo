@@ -4,7 +4,11 @@ How to run Notebook:
 
 This notebook is ran on a pangeo-binder. To run click the link below:
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](https://mybinder.org/v2/gh/ted80810/optimal_fish_temperature_pangeo/HEAD)
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=orange)](http://binder.pangeo.io/v2/gh/ted80810/optimal_fish_temperature_pangeo/HEAD)
+
+For a quick view of this notebook click on the link below to view with nbviewer:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/ted80810/optimal_fish_temperature_pangeo/blob/master/Optimum_Temperature_forAngling_Bonefish.ipynb)
 
 This notebook is ran on a pangeo-binder. To run click the link below:
 Water temperatures dominate bonefish (Albula spp.) movements and feeding patterns in coastal flats. 
